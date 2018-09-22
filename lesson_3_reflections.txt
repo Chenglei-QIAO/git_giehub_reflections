@@ -1,1 +1,2 @@
 When would you want to create a remote repository rather than keeping all your work local?
+    when I'm collabrating with other people on one project, I'd like to use remote repositories, because it would be easy for collabrating and sharing code between each other.I also want to use them when I want to edit code from multiple different computers and keep the code up-to-date on all the computers. Also, remotes can be a good way to keep a backup of my work.
